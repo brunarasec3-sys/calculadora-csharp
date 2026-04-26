@@ -48,4 +48,14 @@ Este projeto foi desenvolvido com foco em aprendizado e prática de lógica de p
 
 ---
 
-✨ Feito com dedicação por Bruna Sousa
+✨ Feito com dedicação por Bruna Sousa.
+
+## ▶️ Como executar
+
+1. Instale o .NET SDK
+2. Clone o repositório:
+git clone https://github.com/brunarasec3-sys/calculadora-csharp.git
+cd calculadora-csharp
+dotnet run
+
+
